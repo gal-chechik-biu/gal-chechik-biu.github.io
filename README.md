@@ -1,1 +1,1 @@
-Webpage fr courses taught by Gal Chechik
+Webpage for courses taught by Gal Chechik
