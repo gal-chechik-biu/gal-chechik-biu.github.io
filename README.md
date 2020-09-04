@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Courses taught by Gal Chechik
 
-You can use the [editor on GitHub](https://github.com/gal-chechik-biu/gal-chechik-biu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 27-504	Theory of neural networks and deep learning
+For graduate students of the Gonda Brain research center
+[Syllabus](https://docs.google.com/document/d/1s0OMt3HTVaBiu5GlFWwX9xOKAdFulr-nuqgzGCpQ-WQ/edit?usp=sharing) [Webpage]
 
-### Markdown
+### 27-5020	Data science workshop for neuroscience
+For graduate students of the Gonda Brain research center
+[Syllabus](https://docs.google.com/document/d/1qb0mUJ4YdvvFZBzSqCa75v5OHhIwyI_faF0VjUPSgu0/edit?usp=sharing) [Webpage]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 89-6874	Deep learning and perception
+For 3rd year CS students
+[Syllabus](https://docs.google.com/document/d/1tKSYtI9Yez7JyANP93yNYvTU-MMFgMuO_gQ2JvSHw7Y/edit?usp=sharing) [Webpage]
 
-```markdown
-Syntax highlighted code block
+### 27-436	Neural Networks
+For undergraduate neuoscience students
+[Syllabus](https://drive.google.com/file/d/1zF3GGHZoJtZquySyz75Nor9LrHQdl-jP/view?usp=sharing) [Webpage]
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gal-chechik-biu/gal-chechik-biu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
