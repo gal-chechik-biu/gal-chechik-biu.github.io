@@ -57,6 +57,8 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 ## Notes and links
 
 ### Slides from Tirgul (Shauli, 2020):
+Note: the content of the slides may change significantly until the tirgul.
+
 - [Class 1](https://docs.google.com/presentation/d/1wRg0xAyZ2ASUtwKPpzP5Kazyb_y_1Id6c90conArPAA/edit?usp=sharing): Introduction, projections, GD, Newton method
 - [Class 2](https://docs.google.com/presentation/d/1QrbO8eYUXvAK5sT0xBsmN3SIYHX_O0Y9iX1lGdOWeOk/edit?usp=sharing): MLE, Logistic regression, colab
 - [Class 3](https://docs.google.com/presentation/d/1UBFjQ-CRioD4RjI_d81ahWgFdSyxuR6r437nH5c21Uc/edit?usp=sharing): Multiclass, MLPs, backprop
