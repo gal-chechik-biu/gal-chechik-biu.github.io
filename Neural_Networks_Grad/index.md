@@ -7,7 +7,7 @@ Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com
 
 TA: Shauli Ravfogel, shauli321 @ gmail.com
 
-Home assignment grading: Hodaya Koslovski, nn.homework.2019 @ gmail.com
+Home assignment grading: 
 
 When and where: 
 - Zoom.
