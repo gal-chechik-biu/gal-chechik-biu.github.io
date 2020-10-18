@@ -1,5 +1,6 @@
 ## Courses taught by Gal Chechik
 
+# insert link
 
 ### 27-504	[Theory of neural networks and deep learning](Neural_Networks_Grad/index.md)
 For graduate students of the Gonda Brain research center
