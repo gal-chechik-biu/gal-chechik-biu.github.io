@@ -2,7 +2,7 @@
 
 # insert link
 
-### 27-504	[Theory of neural networks and deep learning](Neural_Networks_Grad/index.md)
+### 27-504	[Theory of neural networks and deep learning]()
 For graduate students of the Gonda Brain research center
 [Syllabus](https://docs.google.com/document/d/1s0OMt3HTVaBiu5GlFWwX9xOKAdFulr-nuqgzGCpQ-WQ/edit?usp=sharing) [Webpage]
 
