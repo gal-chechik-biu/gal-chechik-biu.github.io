@@ -23,6 +23,7 @@ There will also be a short chapter on information theory and its relation to lea
 Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.toronto.edu/~mackay/itprnn/p0.html#book.html), [textbook 2](http://books.google.de/books?id=hrZYAAAACAAJ&dq=theoretical+neuroscience))
 
 &#x1F535; **[List of classes Fall 2020](https://chechiklab.biu.ac.il/~gal/courses/27504/)**
+
 &#x1F535; **[Syllabus](https://docs.google.com/document/d/1s0OMt3HTVaBiu5GlFWwX9xOKAdFulr-nuqgzGCpQ-WQ/edit?usp=sharing)**
 
 ## Supporting Material
