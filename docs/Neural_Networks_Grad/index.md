@@ -8,7 +8,7 @@ Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com
 TA: Shauli Ravfogel, shauli321 @ gmail.com
 
 When and where: 
-- Zoom (Lectures: https://us02web.zoom.us/j/8461826978, Tirgul: https://us02web.zoom.us/j/3039086569?pwd=TzdROGdUTTN3VVBxd2lYbFlsdklVUT09, password for the tirgul: nn-course).
+- Zoom ([Lectures](https://us02web.zoom.us/j/8461826978), [Tirgul](https://us02web.zoom.us/j/3039086569?pwd=TzdROGdUTTN3VVBxd2lYbFlsdklVUT09). Password for the tirgul: nn-course).
 - Mon. 10:00-11:30 (Gal) 
 - Tue. 12:00-16:30 (Shauli)   
 - Tue. 10:00-11:30 (Gal)   
