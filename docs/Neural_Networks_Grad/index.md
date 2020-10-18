@@ -7,10 +7,8 @@ Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com
 
 TA: Shauli Ravfogel, shauli321 @ gmail.com
 
-Home assignment grading: Hodaya Koslovski, nn.homework.2019 @ gmail.com
-
 When and where: 
-- Zoom.
+- Zoom (Lectures: https://us02web.zoom.us/j/8461826978, Tirgul: https://us02web.zoom.us/j/3039086569?pwd=TzdROGdUTTN3VVBxd2lYbFlsdklVUT09, password for the tirgul: nn-course).
 - Mon. 10:00-11:30 (Gal) 
 - Tue. 12:00-16:30 (Shauli)   
 - Tue. 10:00-11:30 (Gal)   
@@ -24,7 +22,8 @@ There will also be a short chapter on information theory and its relation to lea
 - Part B: Information processing, plasticity and unsupervised Learning:
 Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.toronto.edu/~mackay/itprnn/p0.html#book.html), [textbook 2](http://books.google.de/books?id=hrZYAAAACAAJ&dq=theoretical+neuroscience))
 
-&#x1F535; **[List of classes Fall 2020](https://docs.google.com/spreadsheets/d/1M_9cPpwzFZhtw68XNeOtfzPQTlfsnhworC-0YNLJEdE/edit#gid=0)**
+&#x1F535; **[List of classes Fall 2020](https://chechiklab.biu.ac.il/~gal/courses/27504/)**
+**[Syllabus](https://docs.google.com/document/d/1s0OMt3HTVaBiu5GlFWwX9xOKAdFulr-nuqgzGCpQ-WQ/edit?usp=sharing)**
 
 ## Supporting Material
 
@@ -70,16 +69,6 @@ Note: the content of the slides may change significantly until the tirgul.
 - Class 9: [AEP](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjQ1NWNiMzRmYWQ2YjdkMmY), [Differential Entropy](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnb25kYW5ldXJhbG5ldHdvcmtzfGd4OjE2NmNhZjEzZGYwZjdlZA)
 - [Class 10](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE       
 
-
-
-### Topics: 
-
-- Deep Neural Networks: NN
-- Dynamical systems: DS
-- Machine Learning: ML
-- Probabilistic modelling, information theory: PR / IT
-- Theoretical Neuroscience: TH
-    
     
 ### Exams from previous years: 
 
