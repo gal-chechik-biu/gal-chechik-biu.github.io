@@ -59,7 +59,7 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 ### Slides from Tirgul (Shauli, 2020):
 Note: the content of the slides may change significantly until the tirgul.
 
-- [Class 1](https://docs.google.com/presentation/d/1wRg0xAyZ2ASUtwKPpzP5Kazyb_y_1Id6c90conArPAA/edit?usp=sharing): Introduction, projections, GD, Newton method
+- [Class 1](https://docs.google.com/presentation/d/1wRg0xAyZ2ASUtwKPpzP5Kazyb_y_1Id6c90conArPAA/edit?usp=sharing): Introduction, projections, GD, Newton method [Video](https://us02web.zoom.us/rec/play/dIXz6t2IGfUj4Hp1H5YkRDrAnbMJJlyvgw2SPHNIsgQpOJXPaXa4cN_mzX-tcZuDIWqAd8w5D1eQJ7Da.XfytDckTj8dEVZHy?continueMode=true&_x_zm_rtaid=TTYLkQ9oSeCEaZ4IQe_mmg.1603200749184.1dfdac92180633d8c8f34143223ae7b2&_x_zm_rhtaid=683)
 - [Class 2](https://docs.google.com/presentation/d/1QrbO8eYUXvAK5sT0xBsmN3SIYHX_O0Y9iX1lGdOWeOk/edit?usp=sharing): MLE, Logistic regression, colab
 - [Class 3](https://docs.google.com/presentation/d/1UBFjQ-CRioD4RjI_d81ahWgFdSyxuR6r437nH5c21Uc/edit?usp=sharing): Multiclass, MLPs, backprop
 - [Class 4](https://docs.google.com/presentation/d/1fg7OyTcDFR0M2ha4QKTL2qfBtkf_27MCAWD-y1HZhr8/edit?usp=sharing): SVMs, Deep Dream
