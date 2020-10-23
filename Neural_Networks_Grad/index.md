@@ -74,11 +74,9 @@ Note: the content of the slides may change significantly until the tirgul.
 
 ### Topics: 
 
-- Deep Neural Networks: NN
-- Dynamical systems: DS
-- Machine Learning: ML
-- Probabilistic modelling, information theory: PR / IT
-- Theoretical Neuroscience: TH
+- Deep Neural Networks
+- Machine Learning
+- Theoretical Neuroscience
     
     
 ### Exams from previous years: 
@@ -99,16 +97,6 @@ Exams from previous years:
 - 2017 course was not given
 - 2018 course was not given
 
-### Related material:
-
-- NN: [Attractor neural networks](http://www.scholarpedia.org/article/Attractor_network) (Scholarpedia)
-- TH: [Conductance based models](http://www.scholarpedia.org/article/Conductance-based_models) (Scholarpedia)
-- TH: Fitzhugh-Naumo model: [Scholarpedia (with animated GIFs)](http://www.scholarpedia.org/article/FitzHugh-Nagumo_model), [Book chapters by Izhikevitch](http://www.izhikevich.org/publications/dsn.pdf)
-- DS: Lyapunov [as energy functions](http://hebb.mit.edu/courses/9.641/2006/readings/Slotine91.pdf)
-- ML: Bell & Sejnowski's paper: ["An information-maximization approach to blind separation and blind deconvolution"](http://web.mit.edu/6.962/www/www_spring_2001/shaas/bell.blind.pdf)
-
-
-
 ## Administration 
 
 **The final grade **is computed as a combination of (1) home assignments (2) Mid-term exam (3) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
@@ -125,8 +113,6 @@ It should contain:
 1. (full answers and detailed explanation as you were asked to provide in the home assignment.
 2. your code.
 
-- submission: 
-Email it to:  nn.homework.2020 @ gmail.com  by the deadline.
 
 Acceptable formats are: PDF, plain text, or  word.
 
