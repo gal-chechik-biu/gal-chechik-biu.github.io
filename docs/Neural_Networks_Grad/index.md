@@ -52,7 +52,6 @@ When and where:
 
 - [Lecture 1](https://us02web.zoom.us/rec/share/PcxuAVUbZfczGUhCxQo-cw6-FR4PuISioGnO8ueF3lPlUm5ECnv3mZpNXdpJ3Uly.3OLPexhY3M7c1rQL)
 - [Lecture 2](https://us02web.zoom.us/rec/share/KeoW05I8lSZOQPl9qgIKhpYrVF6IUZVhr_uPd_bprNK3yOvgmRS5nf-GpN1J3pbC.VQIO8fv46C8Iyy82)
-- [Lecture 3]()
 
 ### Slides from Tirgul (Shauli, 2020):
 Note: the content of the slides may change significantly until the tirgul.
