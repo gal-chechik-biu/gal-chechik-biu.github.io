@@ -8,19 +8,10 @@ Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com
 TA: Shauli Ravfogel, shauli321 @ gmail.com
 
 When and where: 
-- Zoom ([Lectures](https://us02web.zoom.us/j/8461826978), [Tirgul](https://us02web.zoom.us/j/3039086569?pwd=TzdROGdUTTN3VVBxd2lYbFlsdklVUT09). Password for the tirgul: nn-course).
+- Zoom ([Lectures](https://us02web.zoom.us/j/81194917435), [Tirgul](https://us02web.zoom.us/j/3039086569?pwd=TzdROGdUTTN3VVBxd2lYbFlsdklVUT09). Password for the tirgul: nn-course).
 - Mon. 10:00-11:30 (Gal) 
 - Tue. 14:00-15:30 (Shauli)   
 - Tue. 10:00-11:30 (Gal)   
-
-**The course covers**: 
-Theory and algorithms of learning from examples, with a focus on deep learning. 
-There will also be a short chapter on information theory and its relation to learning.
-
-- Part A: Learning from Examples ([textbook 1](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738), [online course](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA))
-
-- Part B: Information processing, plasticity and unsupervised Learning:
-Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.toronto.edu/~mackay/itprnn/p0.html#book.html), [textbook 2](http://books.google.de/books?id=hrZYAAAACAAJ&dq=theoretical+neuroscience))
 
 &#x1F535; **[List of classes Fall 2020](https://chechiklab.biu.ac.il/~gal/courses/27504/)**
 
@@ -34,6 +25,7 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 - ML: [Mathematical monk course on machine learning (video lectures)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [NN: Neural Networks course videos by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 - [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [NN: Deep Learning (Goodfellow's book)](https://www.deeplearningbook.org/)
 
 ## Home Assignments 
 
@@ -55,6 +47,12 @@ Neurons extract structures from stochastic signals ([textbook 1](http://www.cs.t
 
 
 ## Notes and links
+
+### Lectures
+
+- [Lecture 1](https://us02web.zoom.us/rec/share/PcxuAVUbZfczGUhCxQo-cw6-FR4PuISioGnO8ueF3lPlUm5ECnv3mZpNXdpJ3Uly.3OLPexhY3M7c1rQL)
+- [Lecture 2](https://us02web.zoom.us/rec/share/KeoW05I8lSZOQPl9qgIKhpYrVF6IUZVhr_uPd_bprNK3yOvgmRS5nf-GpN1J3pbC.VQIO8fv46C8Iyy82)
+- [Lecture 3]()
 
 ### Slides from Tirgul (Shauli, 2020):
 Note: the content of the slides may change significantly until the tirgul.
@@ -89,21 +87,13 @@ Exams from previous years:
 - 2017 course was not given
 - 2018 course was not given
 
-### Related material:
-
-- NN: [Attractor neural networks](http://www.scholarpedia.org/article/Attractor_network) (Scholarpedia)
-- TH: [Conductance based models](http://www.scholarpedia.org/article/Conductance-based_models) (Scholarpedia)
-- TH: Fitzhugh-Naumo model: [Scholarpedia (with animated GIFs)](http://www.scholarpedia.org/article/FitzHugh-Nagumo_model), [Book chapters by Izhikevitch](http://www.izhikevich.org/publications/dsn.pdf)
-- DS: Lyapunov [as energy functions](http://hebb.mit.edu/courses/9.641/2006/readings/Slotine91.pdf)
-- ML: Bell & Sejnowski's paper: ["An information-maximization approach to blind separation and blind deconvolution"](http://web.mit.edu/6.962/www/www_spring_2001/shaas/bell.blind.pdf)
-
 
 
 ## Administration 
 
-**The final grade **is computed as a combination of (1) home assignments (2) Mid-term exam (3) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
+**The final grade **is computed as a combination of (1) home assignments (2) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
 
-                             Grade = 0.3 * Home Assignments + 0.3 Mid-term exam + 0.4 Final project.
+                             Grade = 0.4 * Home Assignments + 0.5 Final project.
 
 **Home assignment policies**: Students are allowed to solve assignments in pairs. They must write the solutions themselves and submit each assignment as individuals. If you have collaborated when working on an assignment, mark clearly the name of the people you collaborated with. 
 
