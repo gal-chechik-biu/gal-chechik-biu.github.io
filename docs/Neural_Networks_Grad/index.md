@@ -92,7 +92,7 @@ Exams from previous years:
 
 **The final grade **is computed as a combination of (1) home assignments (2) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
 
-                             Grade = 0.4 * Home Assignments + 0.5 Final project.
+                             Grade = 0.5 * Home Assignments + 0.5 Final project.
 
 **Home assignment policies**: Students are allowed to solve assignments in pairs. They must write the solutions themselves and submit each assignment as individuals. If you have collaborated when working on an assignment, mark clearly the name of the people you collaborated with. 
 
