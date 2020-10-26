@@ -42,8 +42,7 @@ When and where:
 
 | Submission deadline  | Files |
 | ------------- | ------------- |
-| 27.10.20  | EX 1 |
-| 3.11.20  |EX 2 |
+| 2.11.20  | [EX 1](https://gal-chechik-biu.github.io/Neural_Networks_Grad//EX1-2020-SR-0.pdf) |
 
 
 ## Notes and links
@@ -90,7 +89,7 @@ Exams from previous years:
 
 ## Administration 
 
-**The final grade **is computed as a combination of (1) home assignments (2) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
+**The final grade** is computed as a combination of (1) home assignments (2) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
 
                              Grade = 0.5 * Home Assignments + 0.5 Final project.
 
@@ -107,9 +106,9 @@ It should contain:
 - submission: 
 Email it to:  nn.homework.2020 @ gmail.com  by the deadline.
 
-Acceptable formats are: PDF, plain text, or  word.
+Acceptable format: ***PDF***
 
-The email title should include #assignment, and the submitting students full name and ID.
+***The email title should include #assignment, and the submitting students full name and ID.***
 
 For example,  Email subject: "Assignment 3, submitted by Uri Shalit, ID 01234787485".
 
