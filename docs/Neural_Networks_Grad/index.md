@@ -42,7 +42,7 @@ When and where:
 
 | Submission deadline  | Files |
 | ------------- | ------------- |
-| 2.11.20  | [EX 1](https://gal-chechik-biu.github.io/Neural_Networks_Grad//EX1-2020-SR-0.pdf) |
+| 2.11.20  | [EX 1](https://gal-chechik-biu.github.io/Neural_Networks_Grad//EX1-2020-SR-0.pdf), [part 2](https://docs.google.com/forms/d/e/1FAIpQLScNZE7mFQ4hqRzGocpKa0sbF79-MeAlec8VYK8Tgro0fvcf3w/viewform?gxids=7628) |
 
 
 ## Notes and links
