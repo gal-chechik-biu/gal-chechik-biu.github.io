@@ -48,7 +48,7 @@ When and where:
 ## Notes and links
 
 ### Lectures
-
+&#x1F535; **[Lecture slides and videos](https://chechiklab.biu.ac.il/~gal/courses/27504/)**
 - [Lecture 1](https://us02web.zoom.us/rec/share/PcxuAVUbZfczGUhCxQo-cw6-FR4PuISioGnO8ueF3lPlUm5ECnv3mZpNXdpJ3Uly.3OLPexhY3M7c1rQL)
 - [Lecture 2](https://us02web.zoom.us/rec/share/KeoW05I8lSZOQPl9qgIKhpYrVF6IUZVhr_uPd_bprNK3yOvgmRS5nf-GpN1J3pbC.VQIO8fv46C8Iyy82)
 
