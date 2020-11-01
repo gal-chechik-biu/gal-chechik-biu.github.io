@@ -3,42 +3,16 @@
 
 ## Teaching Staff:
 
-Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com
-
-TA: Shauli Ravfogel, shauli321 @ gmail.com
+Lectures: Gal Chechik, gondaneuralnetworks @ gmail.com. TA: Shauli Ravfogel, shauli321 @ gmail.com
 
 When and where: 
 - Zoom ([Lectures](https://us02web.zoom.us/j/81194917435), [Tirgul](https://us02web.zoom.us/j/3039086569?pwd=TzdROGdUTTN3VVBxd2lYbFlsdklVUT09). Password for the tirgul: nn-course).
-- Mon. 10:00-11:30 (Gal) 
+- Mon. 10:00-11:30, Tue. 10:00-11:30  (Gal) 
 - Tue. 14:00-15:30 (Shauli)   
-- Tue. 10:00-11:30 (Gal)   
 
-&#x1F535; **[List of classes Fall 2020](https://chechiklab.biu.ac.il/~gal/courses/27504/)**
+&#x1F535; **[List of classes - including lecture slides and videos](https://chechiklab.biu.ac.il/~gal/courses/27504/)**
 
 &#x1F535; **[Syllabus](https://docs.google.com/document/d/1s0OMt3HTVaBiu5GlFWwX9xOKAdFulr-nuqgzGCpQ-WQ/edit?usp=sharing)**
-
-## Supporting Material
-
-- ML: Machine Learning and Pattern recognition, C. Bishop (partially available online)  ([PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf))
-- ML: The Elements of Statistical Learning, T. Hastie et al. ([available online](https://web.stanford.edu/~hastie/ElemStatLearn//download.html))
-- ML: [Machine learning course @ Stanford University online course (notes and videos)](https://see.stanford.edu/Course/CS229)
-- ML: [Mathematical monk course on machine learning (video lectures)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
-- [NN: Neural Networks course videos by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [NN: Deep Learning (Goodfellow's book)](https://www.deeplearningbook.org/)
-
-## Home Assignments 
-
-- Instructions
-
-    1. To appear on our lists, make sure to send an email with the subject line  NN2020 to gondaneuralnetworks @ gmail.com . 
-    2. Submission deadlines are given below as well on the course plan on the home page. 
-    3. To submit, scan and email your assignment to nn.homework.2020 @ gmail.com. 
-    4. FAQ: [Why use python over matlab?](https://www.google.com/url?q=https%3A%2F%2Finsights.stackoverflow.com%2Ftrends%3Ftags%3Dpython%252Cmatlab&sa=D&sntz=1&usg=AFQjCNFnW1cNIYgh1evWBq3Pg3IukNgG7w)
-
-- Grades
-
-- Assignments
 
 | Submission deadline  | Files |
 | ------------- | ------------- |
@@ -46,11 +20,6 @@ When and where:
 
 
 ## Notes and links
-
-### Lectures
-&#x1F535; **[Lecture slides and videos](https://chechiklab.biu.ac.il/~gal/courses/27504/)**
-- [Lecture 1](https://us02web.zoom.us/rec/share/PcxuAVUbZfczGUhCxQo-cw6-FR4PuISioGnO8ueF3lPlUm5ECnv3mZpNXdpJ3Uly.3OLPexhY3M7c1rQL)
-- [Lecture 2](https://us02web.zoom.us/rec/share/KeoW05I8lSZOQPl9qgIKhpYrVF6IUZVhr_uPd_bprNK3yOvgmRS5nf-GpN1J3pbC.VQIO8fv46C8Iyy82)
 
 ### Slides from Tirgul (Shauli, 2020):
 Note: the content of the slides may change significantly until the tirgul.
@@ -95,23 +64,32 @@ Exams from previous years:
 
 **Home assignment policies**: Students are allowed to solve assignments in pairs. They must write the solutions themselves and submit each assignment as individuals. If you have collaborated when working on an assignment, mark clearly the name of the people you collaborated with. 
 
-**Programming exercises**: 
+**How to submit**: 
 
-Each student should submit a digital copy of their exercise.
-It should contain: 
-
-1. (full answers and detailed explanation as you were asked to provide in the home assignment.
-2. your code.
+Submit your colab notebook/a pdf with your written answers in the mail.
 
 - submission: 
 Email it to:  nn.homework.2020 @ gmail.com  by the deadline.
 
-Acceptable format: ***PDF***
+Acceptable format of written answers: ***PDF***
 
 ***The email title should include #assignment, and the submitting students full name and ID.***
 
-For example,  Email subject: "Assignment 3, submitted by Uri Shalit, ID 01234787485".
+For example,  Email subject: "Assignment 3, submitted by Alon Cohen, ID 01234787485".
 
 - Late home assignment submissions: 
+Each late day results in a 5 points penalty, and the assignment will not be graded if submitted after 4 days or more.
 
-Each student is allowed a total of 5 late days, to spend across all exercises as they wish. We cannot guarantee that exercises submitted after the deadline will be at all graded, but if they are graded, they will suffer a penalty of 20 points. 
+<!--Each student is allowed a total of 5 late days, to spend across all exercises as they wish. We cannot guarantee that exercises submitted after the deadline will be at all graded, but if they are graded, they will suffer a penalty of 20 points.-->
+
+
+
+## Supporting Material
+
+- ML: Machine Learning and Pattern recognition, C. Bishop (partially available online)  ([PDF](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf))
+- ML: The Elements of Statistical Learning, T. Hastie et al. ([available online](https://web.stanford.edu/~hastie/ElemStatLearn//download.html))
+- ML: [Machine learning course @ Stanford University online course (notes and videos)](https://see.stanford.edu/Course/CS229)
+- ML: [Mathematical monk course on machine learning (video lectures)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [NN: Neural Networks course videos by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [NN: Deep Learning (Goodfellow's book)](https://www.deeplearningbook.org/)
