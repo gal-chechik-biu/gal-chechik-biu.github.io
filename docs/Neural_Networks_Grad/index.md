@@ -10,7 +10,7 @@ When and where:
 - Mon. 10:00-11:30, Tue. 10:00-11:30  (Gal) 
 - Tue. 14:00-15:30 (Shauli)   
 
-<a href="https://chechiklab.biu.ac.il/~gal/courses/27504/" style="font-size: 100px; text-decoration: none">List of classes - including lecture slides and videos</a>
+<a href="https://chechiklab.biu.ac.il/~gal/courses/27504/" style="font-size: 500px; text-decoration: none">List of classes - including lecture slides and videos</a>
 <font size="+55">[List of classes - including lecture slides and videos]</font>(https://chechiklab.biu.ac.il/~gal/courses/27504/)
 
 &#x1F535; **[Syllabus](https://docs.google.com/document/d/1s0OMt3HTVaBiu5GlFWwX9xOKAdFulr-nuqgzGCpQ-WQ/edit?usp=sharing)**
