@@ -11,7 +11,7 @@ When and where:
 - Tue. 14:00-15:30 (Shauli)   
 
 
-<font size="+5">&#x1F535; **[List of classes - including lecture slides and videos](https://chechiklab.biu.ac.il/~gal/courses/27504/)**</font>
+<font size="+25">&#x1F535; **[List of classes - including lecture slides and videos](https://chechiklab.biu.ac.il/~gal/courses/27504/)**</font>
 
 &#x1F535; **[Syllabus](https://docs.google.com/document/d/1s0OMt3HTVaBiu5GlFWwX9xOKAdFulr-nuqgzGCpQ-WQ/edit?usp=sharing)**
 
