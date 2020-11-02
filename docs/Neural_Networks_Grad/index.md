@@ -39,7 +39,7 @@ Note: the content of the slides may change significantly until the tirgul.
 
 ## Administration 
 
-**The final grade** is computed as a combination of (1) home assignments (2) Final project. Students must complete all three to pass the course. The two home assignments with the lowest grades will not be taken into account (if their grade is higher than 60).
+**The final grade** is computed as a combination of (1) home assignments (2) Final project. Students must complete all three to pass the course. 
 
                              Grade = 0.5 * Home Assignments + 0.5 Final project.
 
