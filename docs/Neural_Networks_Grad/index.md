@@ -28,7 +28,7 @@ Note: the content of the slides may change significantly until the tirgul.
 
 - [Class 1](https://docs.google.com/presentation/d/1wRg0xAyZ2ASUtwKPpzP5Kazyb_y_1Id6c90conArPAA/edit?usp=sharing): Introduction, projections, GD, Newton method [Video](https://us02web.zoom.us/rec/play/dIXz6t2IGfUj4Hp1H5YkRDrAnbMJJlyvgw2SPHNIsgQpOJXPaXa4cN_mzX-tcZuDIWqAd8w5D1eQJ7Da.XfytDckTj8dEVZHy?continueMode=true&_x_zm_rtaid=TTYLkQ9oSeCEaZ4IQe_mmg.1603200749184.1dfdac92180633d8c8f34143223ae7b2&_x_zm_rhtaid=683)
 - [Class 2](https://docs.google.com/presentation/d/1QrbO8eYUXvAK5sT0xBsmN3SIYHX_O0Y9iX1lGdOWeOk/edit?usp=sharing): MLE, Logistic regression, colab [Video]( https://us02web.zoom.us/rec/share/1s3_z8cutU4KnZ2c2Gos5TV2HDoHu_HTcbCHTDt5n-zR-E6l3-D73nPw21P7vLgA.b5h_PufwMAXkAsIm )
-- [Python intro](-https://us02web.zoom.us/rec/share/WQqlFgbu3IroCioozE_I-rGCwmtAL5kRInnszwS4_CpliPitQ-eS6fJae0GxZ-2r.HUPlt3LdCTxT9Jym), [Colab Example 1](
+- [Python intro video](https://us02web.zoom.us/rec/share/WQqlFgbu3IroCioozE_I-rGCwmtAL5kRInnszwS4_CpliPitQ-eS6fJae0GxZ-2r.HUPlt3LdCTxT9Jym), [Colab Example 1](
 https://colab.research.google.com/drive/1APMZMPXPk-QMpZpPn5q2JV2sACkL0uTM#scrollTo=w0xlxXw4B5CS), [Colab example 2](https://colab.research.google.com/drive/1hyvLJf0EQyGx4Ptysruki0QrQnqUj47B#scrollTo=eg8AcIrtld1v)
 - [Class 3](https://docs.google.com/presentation/d/1UBFjQ-CRioD4RjI_d81ahWgFdSyxuR6r437nH5c21Uc/edit?usp=sharing): Multiclass, MLPs, backprop [Video](https://us02web.zoom.us/rec/play/ooKIiueXYJQHJ-VLU4GouovTz1qm12zwAVmAAiyiX64W4HnJgeQVIeGpEAccuDOagRIYjZURmM59mmyf.URWF-pbtH16INVxv?continueMode=true)
 - [Class 4](https://docs.google.com/presentation/d/1fg7OyTcDFR0M2ha4QKTL2qfBtkf_27MCAWD-y1HZhr8/edit?usp=sharing): SVMs, Deep Dream
