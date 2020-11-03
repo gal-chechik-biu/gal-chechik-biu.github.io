@@ -30,7 +30,7 @@ Note: the content of the slides may change significantly until the tirgul.
 - [Class 2](https://docs.google.com/presentation/d/1QrbO8eYUXvAK5sT0xBsmN3SIYHX_O0Y9iX1lGdOWeOk/edit?usp=sharing): MLE, Logistic regression, colab [Video]( https://us02web.zoom.us/rec/share/1s3_z8cutU4KnZ2c2Gos5TV2HDoHu_HTcbCHTDt5n-zR-E6l3-D73nPw21P7vLgA.b5h_PufwMAXkAsIm )
 - [Python intro](-https://us02web.zoom.us/rec/share/WQqlFgbu3IroCioozE_I-rGCwmtAL5kRInnszwS4_CpliPitQ-eS6fJae0GxZ-2r.HUPlt3LdCTxT9Jym), [Colab Example 1](
 https://colab.research.google.com/drive/1APMZMPXPk-QMpZpPn5q2JV2sACkL0uTM#scrollTo=w0xlxXw4B5CS), [Colab example 2](https://colab.research.google.com/drive/1hyvLJf0EQyGx4Ptysruki0QrQnqUj47B#scrollTo=eg8AcIrtld1v)
-- [Class 3](https://docs.google.com/presentation/d/1UBFjQ-CRioD4RjI_d81ahWgFdSyxuR6r437nH5c21Uc/edit?usp=sharing): Multiclass, MLPs, backprop
+- [Class 3](https://docs.google.com/presentation/d/1UBFjQ-CRioD4RjI_d81ahWgFdSyxuR6r437nH5c21Uc/edit?usp=sharing): Multiclass, MLPs, backprop [Video](https://us02web.zoom.us/rec/play/ooKIiueXYJQHJ-VLU4GouovTz1qm12zwAVmAAiyiX64W4HnJgeQVIeGpEAccuDOagRIYjZURmM59mmyf.URWF-pbtH16INVxv?continueMode=true)
 - [Class 4](https://docs.google.com/presentation/d/1fg7OyTcDFR0M2ha4QKTL2qfBtkf_27MCAWD-y1HZhr8/edit?usp=sharing): SVMs, Deep Dream
 - [Class 5](https://docs.google.com/presentation/d/12R-nIc4jGd0PJaORHD8SkUjBj2yeBnwT52afELfTQaI/edit?usp=sharing): Multivariate Gaussians, PCA
 - Class 6: [Information Theory](https://docs.google.com/presentation/d/1HdDItP2EbgmHUA939Z-wyS45ScNN89NB9J5G5WI0QkE/edit?usp=sharing), [Yoav Goldberg's Attention slides](http://www.google.com/url?q=http%3A%2F%2Fu.cs.biu.ac.il%2F~89-687%2Flec11.pdf&sa=D&sntz=1&usg=AFQjCNEVrtTDxxebNTqGW8QtmUFfQol78g)
