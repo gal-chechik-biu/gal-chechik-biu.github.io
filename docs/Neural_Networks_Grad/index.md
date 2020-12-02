@@ -21,7 +21,8 @@ When and where:
 | 9.11.20 | [EX 2](https://colab.research.google.com/drive/1TihvVvHdwzdcuMJtqVYLU5rB0tQNXhfq?usp=sharing) | - |
 | 16.11.20  | [EX 3](https://gal-chechik-biu.github.io/Neural_Networks_Grad//EX3.pdf)  | - |
 | 25.11.20 | [EX 4](https://docs.google.com/document/d/1aOnuKwqoqvPvnoOQipM4p4LNPE7yeP9_PXHX2B72z98/edit?usp=sharing)  | - |
-| 20.12.20 | [EX 5](https://gal-chechik-biu.github.io/Neural_Networks_Grad/EX5-2020-SR-0.pdf)
+| 20.12.20 | [EX 5](https://gal-chechik-biu.github.io/Neural_Networks_Grad/EX5-2020-SR-0.pdf) | - |
+
 ## Notes and links
 
 ### Slides from Tirgul (Shauli, 2020):
