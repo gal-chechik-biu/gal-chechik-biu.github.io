@@ -10,6 +10,11 @@ When and where:
 - Mon. 10:00-11:30, Tue. 10:00-11:30  (Gal) 
 - Tue. 14:00-15:30 (Shauli)   
 
+## Projects
+
+Course projects can be done individually or in pairs (encouraged). Students should propose a project that involves applying one of the learning techniques covered in the course to non-trivial data. It is allowed and encouraged to use data from your MSc or PhD research.
+
+Grading criteria for the project: (1) Proper formulation of the learning problem. (2) Adequacy of the method to the learning problem (3) Level of complexity and scale of the learning problem (4) Novelty of technical ideas. (5) Quality of presentation.
 
 ## &#x1F535; [List of classes - including lecture slides and videos](https://chechiklab.biu.ac.il/~gal/courses/27504/)
 
