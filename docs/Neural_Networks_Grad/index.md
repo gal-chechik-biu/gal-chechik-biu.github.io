@@ -43,7 +43,7 @@ https://colab.research.google.com/drive/1APMZMPXPk-QMpZpPn5q2JV2sACkL0uTM#scroll
 - [Class 6](https://docs.google.com/presentation/d/12R-nIc4jGd0PJaORHD8SkUjBj2yeBnwT52afELfTQaI/edit?usp=sharing): Multivariate Gaussians, PCA [Video](https://us02web.zoom.us/rec/play/62Yuk302nA8izUtvM53Fl2ZSjOmAUk6odTKGmaBzmqOHvge9KM4LlYMEIPrr1dznjOWYOShMa721eJaK.5lm8o-_Cs-kCxGZt?continueMode=true&_x_zm_rtaid=Jf8Rn75OT5-o0oiN0NYtkA.1606245757554.1ca49f6cd8b37211be25f5b4f68e86a2&_x_zm_rhtaid=943)
 - Class 7: [Yoav Goldberg's Attention slides](https://u.cs.biu.ac.il/~89-687/lec10-attn.pdf) [Video]( https://us02web.zoom.us/rec/share/gDLp0RmA0Tc_pbhsUAKiBksATFYVCqBpiip_ZiShKFyca4sDp-tG4MIyr8nDySHu.1DgstYSQOZO_ozr-)
 - [Class 8](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE [Video](https://us02web.zoom.us/rec/share/JFLioMGYDvMJ-fkjXcx-0JBgBdaqEd-NKeAvDzrhVmWjwD0VhESxHfrm56GP6Z6I.R-3Pot-qdZBk3P2C)
-
+- [Class 9](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE (Cont.) [Video](https://us02web.zoom.us/rec/play/kmN7iz8y0oJYvqnRXTtlTLrGh3FooIzGJUyEzsll_NbIswiisb4zXIKtGVkpzacvy__b1bwR8bcGSfha.76MqU1htzT2FTJQr?continueMode=true)
 <!-
 #- [Class 8](https://docs.google.com/presentation/d/1buQ_iqUogPq_YQJAS6pQNvHdQAAqWekcjzOJBEtl1Bs/edit?usp=sharing): Source coding
 #- [Class 9](https://docs.google.com/presentation/d/1nH1WiHHv3AcagOF4l2F85bKRchRgKGJd_I6TZrmbigw/edit?usp=sharing): Autoencoders
