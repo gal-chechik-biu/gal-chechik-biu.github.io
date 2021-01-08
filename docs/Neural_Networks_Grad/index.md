@@ -45,7 +45,7 @@ https://colab.research.google.com/drive/1APMZMPXPk-QMpZpPn5q2JV2sACkL0uTM#scroll
 - [Class 8](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE [Video](https://us02web.zoom.us/rec/share/JFLioMGYDvMJ-fkjXcx-0JBgBdaqEd-NKeAvDzrhVmWjwD0VhESxHfrm56GP6Z6I.R-3Pot-qdZBk3P2C)
 - [Class 9](https://docs.google.com/presentation/d/1PalysOogCCyk7V2RheMtT0PA0_mZFa5EE1fSSVPN3W0/edit?usp=sharing): VAE (Cont.) [Video](https://us02web.zoom.us/rec/play/kmN7iz8y0oJYvqnRXTtlTLrGh3FooIzGJUyEzsll_NbIswiisb4zXIKtGVkpzacvy__b1bwR8bcGSfha.76MqU1htzT2FTJQr?continueMode=true)
 - [Class 10] Torch [Video](https://us02web.zoom.us/rec/share/f9uhbMT-41fAIrO8hXvyvKZL18nNPMBsakjY6ekYiWu1hY-jFKUVkBow-fgtOvDd.38bsPNCCGCShfRKd)
-      
+- [Class 11] Projects discussion [Video](https://us02web.zoom.us/rec/share/Jr79PcnS4jyUFx1wQ2dQFL7dJkyTF08TrlydltaXyI_2MUmQ_N8brQJgj8vBLPX_.thFSa_doG6VWnXS-)      
 
 
 ## Administration 
